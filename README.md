@@ -1,1 +1,0 @@
-# microservice-produits.properties
